@@ -1,0 +1,11 @@
+
+Prerequisites
+
+Install the required libraries:
+
+pyclamd for ClamAV integration
+honeybee for honeypot detection
+scapy for network packet capture
+selenium for browser automation
+requests for API interactions
+Update your virus definitions by running the clamav update command
