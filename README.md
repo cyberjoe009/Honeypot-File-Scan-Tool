@@ -28,8 +28,8 @@ After you download these files and run this code you will see a screen that says
 
 Type file directory here:
 
-then just type your file directory
-example - /home/kali/Downloads/python.py
+Then just type your file directory
+Example - /home/kali/Downloads/python.py
 
-example -
+Example -
 Type file directory here:/home/kali/Downloads/python.py
