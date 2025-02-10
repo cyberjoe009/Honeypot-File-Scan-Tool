@@ -1,4 +1,4 @@
-# Honeypot-File-Scan-Tool
+# File-Scan-Tool
 
 Features
 Advanced threat detection using various methods (e.g., behavioral analysis, sandboxing)
