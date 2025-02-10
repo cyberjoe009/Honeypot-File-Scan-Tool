@@ -31,5 +31,5 @@ Type file directory here:
 then just type your file directory
 example - /home/kali/Downloads/python.py
 
-example
+example -
 Type file directory here:/home/kali/Downloads/python.py
