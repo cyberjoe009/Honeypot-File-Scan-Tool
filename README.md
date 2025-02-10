@@ -22,11 +22,7 @@ File scanning for malware using various detection methods
 *********Read This*********
 You will need these files to run the code
 
-Main_python_code.py
-honeybee\_init_.py
-numerictypes.pyi
-pyclamd\_int_.p
-
+Main_python_code.py, honeybee\_init_.py, numerictypes.pyi, pyclamd\_int_.p
 
 After you download these files and run this code you will see a screen that says
 
